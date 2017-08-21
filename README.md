@@ -4,7 +4,7 @@
 I have created this project as a library for me and that's why the design sucks and I didn't use OOP in this project I know I should have.
  <br>
   <br>
-<strong> I how to use </strong>
+<strong> How to use </strong>
 <br>
 First I recommend to inzip and use this file php_upload_image_create_data_pagination_search_ajax.zip
  <br>
