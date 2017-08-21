@@ -1,5 +1,5 @@
 # PHP_Image_with_title_and_search_example
- Creating mysql database and table for saving uploading images path and titles and validating images size and type at client side in Jquery and back side. Retrieving data and uploading images using AJAX <br>
+ Creating mysql database and table for saving uploaded images path and titles and validating images size and type at client side in Jquery and back side. Retrieving data and uploading images using AJAX <br>
  <br>
 I have created this project as a library for me and that's why the design sucks and I didn't use OOP in this project I know I should have.
  <br>
